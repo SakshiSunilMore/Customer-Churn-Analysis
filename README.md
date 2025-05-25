@@ -31,11 +31,11 @@ The churn rate, representing the percentage of customers who have discontinued s
 • Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.<br/>
 • File Format - -pbix for development and -png for dashboard previews<br/>
 
-💠<B>Call Analysis :-<B>
-![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Churn%20Analysis.png)
+💠Call Analysis :-<br/>
+![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Churn%20Analysis.png)<br/>
 
-💠<B>Agent Analysis :-<B>
-![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Risk%20Analysis.png)
+💠Agent Analysis :-<br/>
+![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Risk%20Analysis.png)<br/>
 
 
 ✨Feedback and suggestions are appreciated !
