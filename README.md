@@ -24,12 +24,12 @@ The churn rate, representing the percentage of customers who have discontinued s
 • 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐞𝐭𝐡𝐨𝐝 : The payment method chosen (e.g., electronic check, credit card, bank transfer) might impact customer loyalty and churn rate.<br/>
 • 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐡𝐚𝐫𝐠𝐞𝐬 : Monthly charges for customers range from as low as $20 to over $100. Understanding the reasons for these variations can aid in developing pricing strategies and improving customer retention efforts.<br/>
 
-🔗The dashboard was built using the following tools and technologies:
-• Power BI Desktop - Main data visualization platform used for report creation.
-• Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
-• DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
-• Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.
-• File Format - -pbix for development and -png for dashboard previews
+🔗The dashboard was built using the following tools and technologies:<br/>
+• Power BI Desktop - Main data visualization platform used for report creation.<br/>
+• Power Query - Data transformation and cleaning layer for reshaping and preparing the data.<br/>
+• DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.<br/>
+• Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.<br/>
+• File Format - -pbix for development and -png for dashboard previews<br/>
 
 💠<B>Call Analysis :-<B>
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png)
