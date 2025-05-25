@@ -1,3 +1,5 @@
+#Customer-Churn-Analysis
+
 Hello data community !
 
 📊I've developed a "Customer Churn Analysis" Dashboard using Power BI as part of the PwC Switzerland Virtual Internship Program offered by Forage.
