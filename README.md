@@ -35,7 +35,7 @@ The churn rate, representing the percentage of customers who have discontinued s
 ![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Churn%20Analysis.png)
 
 💠<B>Agent Analysis :-<B>
-![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Agent%20Analysis.png)
+![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Risk%20Analysis.png)
 
 
 ✨Feedback and suggestions are appreciated !
