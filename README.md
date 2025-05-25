@@ -32,10 +32,10 @@ The churn rate, representing the percentage of customers who have discontinued s
 • File Format - -pbix for development and -png for dashboard previews<br/>
 
 💠<B>Call Analysis :-<B>
-![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Call%20Analysis.png)
+![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Churn%20Analysis.png)
 
 💠<B>Agent Analysis :-<B>
-![Dashboard Preview](https://github.com/SakshiSunilMore/Call-Center-Dashboard/blob/main/Agent%20Analysis.png)
+![Dashboard Preview](https://github.com/SakshiSunilMore/Customer-Churn-Analysis/blob/main/Agent%20Analysis.png)
 
 
 ✨Feedback and suggestions are appreciated !
